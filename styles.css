@@ -1,0 +1,107 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+html{
+    height: 100%;
+}
+
+body{
+    min-height: 100%;
+}
+h1, caption{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #030d8b;
+}
+
+h2{
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3{
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    color: #030d8b;
+    font-size: 20px;
+}
+
+h4{
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
+dir{
+    align-content: right;
+}
+
+#Elementos{
+    text-decoration: none;
+    color: white;
+}
+
+p{
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+nav{
+    padding: 24px;
+    background: #030d8b;
+    box-shadow: 3px 9px 4px 6px rgba(255, 255, 255, 0.5);
+    text-align: center;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+footer{
+    padding: 24px;
+    background: #030d8b;
+    box-shadow: 3px 9px 4px 6px rgba(255, 255, 255, 0.5);
+    text-align: left;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    
+}
+.boton {
+    background-color: #030d8b; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-block;
+    font-size: 16px; 
+}
+
+
+
+#MENU li {
+    display: inline;
+    margin: 40px;
+    padding: 24px;
+    font-size: 25px;
+}
+
+.Contenedor{
+    width: 100%;
+    display: flex;
+}
+
+.izq{
+    width: 42%;
+}
+
+.der{
+    width: 42%;
+}
+
+.c1{
+    width: 33.3%;
+}
+
+.c2{
+    width: 33.3%;
+}
+
+.c3{
+    width: 33.4%;
+}
