@@ -81,27 +81,3 @@ footer{
     font-size: 25px;
 }
 
-.Contenedor{
-    width: 100%;
-    display: flex;
-}
-
-.izq{
-    width: 42%;
-}
-
-.der{
-    width: 42%;
-}
-
-.c1{
-    width: 33.3%;
-}
-
-.c2{
-    width: 33.3%;
-}
-
-.c3{
-    width: 33.4%;
-}
